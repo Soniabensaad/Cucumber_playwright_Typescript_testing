@@ -1,0 +1,19 @@
+{
+  "name": "cucumber_playwright_typescript_testing",
+  "version": "1.0.0",
+  "description": "Cucumber_playwright_Typescript_testing",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.2",
+    "playwright-bdd": "^7.5.0"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
